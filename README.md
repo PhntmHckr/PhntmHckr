@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhntmHckr
 - 👀 I’m interested in Penetration Testing, Vulnerablitly analysis, and Bug Bounties. 
-- 🌱 I’m currently learning Pentesting and Privilege Escalation on eccouncil.org
+- 🌱 I’m currently learning Pentesting and Privilege Escalation on tryhackme as well as in school for cybersecurity.
 - 💞️ I’m looking to collaborate on bug bounties and looking for a mentor and Networking with others.
 - 📫 How to reach me ahug.hackz@gmail.com
 
